@@ -1,6 +1,6 @@
 function add (Int) {
-  var a = 1
-  var b = 1276
+  var a = math.random
+  var b = math.random
   return(a + b)
 }
 
