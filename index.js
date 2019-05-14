@@ -1,9 +1,9 @@
 var number;
-function add(a, b){ //add a and b and return the result.
+function add(a, b)
   number = a + b;
   return number;
 }
-function subtract(a, b){ //subtract a and b and return the result.
+function subtract(a, b)
   number = a - b;
   return number;
 }
